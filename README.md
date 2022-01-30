@@ -1,12 +1,9 @@
-## Jingyun Liang [![visitors](https://visitor-badge.glitch.me/badge?page_id=jingyunliang/jingyunliang)](https://github.com/JingyunLiang)
+## Jingyun Liang [![visitors](https://visitor-badge.glitch.me/badge?page_id=jingyunliang/jingyunliang)](https://github.com/JingyunLiang)[![GitHub Followers](https://img.shields.io/github/followers/jingyunliang?style=social)](https://github.com/JingyunLiang)
 
 [Email](mailto:jingyunliang12@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) /
 [Homepage](https://jingyunliang.github.io/) /
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=3-Hz9BgAAAAJ) /
 [Github](https://github.com/JingyunLiang)
-<!--
-[![GitHub Followers](https://img.shields.io/github/followers/jingyunliang?style=social)](https://github.com/JingyunLiang)
--->
 
 I am currently a PhD Student at [Computer Vision Lab](https://vision.ee.ethz.ch/), [ETH Zürich](https://ethz.ch/en.html), Switzerland. I am co-supervised by Prof. [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en) and Prof. [Radu Timofte](http://people.ee.ethz.ch/~timofter/). I also work closely with Dr. [Kai Zhang](https://cszn.github.io/). I mainly focus on low-level vision research, especially on image and video restoration, such as
 - image/video video super-resolution (SR)
@@ -15,7 +12,7 @@ I am currently a PhD Student at [Computer Vision Lab](https://vision.ee.ethz.ch/
 - ...
 
 :rocket:  **News**
-- 2022-01-28: Our new paper [VRT](https://github.com/JingyunLiang/VRT) is oneline.
+- 2022-01-28: Our new paper [VRT](https://github.com/JingyunLiang/VRT) is online.
 - 2021-10-20: [SwinIR](https://github.com/JingyunLiang/SwinIR) is awarded the best paper prize in ICCV-AIM2021.
 - 2021-08-01: Three papers ([HCFlow](https://github.com/JingyunLiang/HCFlow), [MANet](https://github.com/JingyunLiang/MANet) and [BSRGAN](https://github.com/cszn/BSRGAN)) accepted by ICCV2021.
 - 2021-03-29: One paper ([FKP](https://github.com/JingyunLiang/FKP)) accepted by CVPR2021.
