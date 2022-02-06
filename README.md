@@ -2,7 +2,7 @@
 
 [Email](mailto:jingyunliang12@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) /
 [Homepage](https://jingyunliang.github.io/) /
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=3-Hz9BgAAAAJ) /
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=3-Hz9BgAAAAJ&view_op=list_works&sortby=pubdate) /
 [Github](https://github.com/JingyunLiang)
 
 I am currently a PhD Student at [Computer Vision Lab](https://vision.ee.ethz.ch/), [ETH Zürich](https://ethz.ch/en.html), Switzerland. I am co-supervised by Prof. [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en) and Prof. [Radu Timofte](http://people.ee.ethz.ch/~timofter/). I also work closely with Dr. [Kai Zhang](https://cszn.github.io/). I mainly focus on low-level vision research, especially on image and video restoration, such as
