@@ -12,7 +12,7 @@ I am currently a PhD Student at [Computer Vision Lab](https://vision.ee.ethz.ch/
 - ...
 
 :rocket:  **News**
-- 2022-01-28: Our new paper [VRT](https://github.com/JingyunLiang/VRT) is online.
+- 2022-01-28: Our new paper [VRT](https://github.com/JingyunLiang/VRT) is online. It outperforms previous Video SR/deblurring/denoising methods by up to :heart_eyes: **2.16dB**. :heart_eyes:
 - 2021-10-20: [SwinIR](https://github.com/JingyunLiang/SwinIR) is awarded the best paper prize in ICCV-AIM2021.
 - 2021-08-01: Three papers ([HCFlow](https://github.com/JingyunLiang/HCFlow), [MANet](https://github.com/JingyunLiang/MANet) and [BSRGAN](https://github.com/cszn/BSRGAN)) accepted by ICCV2021.
 - 2021-03-29: One paper ([FKP](https://github.com/JingyunLiang/FKP)) accepted by CVPR2021.
