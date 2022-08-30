@@ -12,9 +12,9 @@ I am currently a PhD Student at [Computer Vision Lab](https://vision.ee.ethz.ch/
 - ...
 
 :rocket:  **News**
+- 2022-08-30: See our papers on real-world image denoising ([SCUNet](https://github.com/cszn/SCUNet)) and video denoising ([ReViD](https://arxiv.org/pdf/2208.11803.pdf)).
 - 2022-07-30: Three papers, including [EFNet](https://github.com/AHupuJR/EFNet) (event-based image deblurring, oral), [DATSR](https://github.com/caojiezhang/DATSR) (reference image SR) and [DAVSR](https://github.com/caojiezhang/DAVSR) (video SR), accepted by ECCV2022.
 - 2022-06-10: Our new paper [RVRT](https://github.com/JingyunLiang/RVRT) achieves SOTA video restoration results with balanced size, memory and runtime.
-- 2022-04-01: Our new paper [SCUNet](https://github.com/cszn/SCUNet) is online. It achieves awesome denoising performance for real-world images.
 - 2022-01-28: Our new paper [VRT](https://github.com/JingyunLiang/VRT) outperforms previous Video SR/ deblurring/ denoising/ frame interpolation/ space-time video SR methods by up to :heart_eyes: **2.16dB**. :heart_eyes:
 - 2021-10-20: [SwinIR](https://github.com/JingyunLiang/SwinIR) is awarded the best paper prize in ICCV-AIM2021.
 - 2021-08-01: Three papers ([HCFlow](https://github.com/JingyunLiang/HCFlow), [MANet](https://github.com/JingyunLiang/MANet) and [BSRGAN](https://github.com/cszn/BSRGAN)) accepted by ICCV2021.
@@ -24,6 +24,7 @@ I am currently a PhD Student at [Computer Vision Lab](https://vision.ee.ethz.ch/
 🌱 **Repositories**
 |   Topic   |     Title     |    Badge  |
 |:---:|:------:|             :--------------------------:                     |
+|   real-world video denoising  |   [Practical Real Video Denoising with Realistic Degradation Model](https://arxiv.org/pdf/2208.11803.pdf) |   [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2208.11803)[![GitHub Stars](https://img.shields.io/github/stars/caojiezhang/ReViD?style=social)](https://github.com/caojiezhang/ReViD)   |
 |  event-based image deblurring   |   [Event-based Fusion for Motion Deblurring with Cross-modal Attention, ECCV2022](https://github.com/AHupuJR/EFNet)   |   [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2112.00167)[![GitHub Stars](https://img.shields.io/github/stars/AHupuJR/EFNet?style=social)](https://github.com/AHupuJR/EFNet)   |
 |  reference image SR   |   [Reference-based Image Super-Resolution with Deformable Attention Transformer, ECCV2022](https://github.com/caojiezhang/DATSR)   |   [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2207.11938)[![GitHub Stars](https://img.shields.io/github/stars/caojiezhang/DATSR?style=social)](https://github.com/caojiezhang/DATSR)   |
 |  interpretable video restoration   |   [Towards Interpretable Video Super-Resolution via Alternating Optimization, ECCV2022](https://github.com/caojiezhang/DAVSR)   |   [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2207.10765)[![GitHub Stars](https://img.shields.io/github/stars/caojiezhang/DAVSR?style=social)](https://github.com/caojiezhang/DAVSR)   |
