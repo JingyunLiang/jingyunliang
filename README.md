@@ -12,9 +12,9 @@ I am currently a PhD Student at [Computer Vision Lab](https://vision.ee.ethz.ch/
 - ...
 
 :rocket:  **News**
+- 2022-10-04: Our new paper [RVRT, NeurlPS2022](https://github.com/JingyunLiang/RVRT) achieves SOTA video restoration results with balanced size, memory and runtime.
 - 2022-08-30: See our papers on real-world image denoising ([SCUNet](https://github.com/cszn/SCUNet)) and video denoising ([ReViD](https://arxiv.org/pdf/2208.11803.pdf)).
 - 2022-07-30: Three papers, including [EFNet](https://github.com/AHupuJR/EFNet) (event-based image deblurring, oral), [DATSR](https://github.com/caojiezhang/DATSR) (reference image SR) and [DAVSR](https://github.com/caojiezhang/DAVSR) (video SR), accepted by ECCV2022.
-- 2022-06-10: Our new paper [RVRT](https://github.com/JingyunLiang/RVRT) achieves SOTA video restoration results with balanced size, memory and runtime.
 - 2022-01-28: Our new paper [VRT](https://github.com/JingyunLiang/VRT) outperforms previous Video SR/ deblurring/ denoising/ frame interpolation/ space-time video SR methods by up to :heart_eyes: **2.16dB**. :heart_eyes:
 - 2021-10-20: [SwinIR](https://github.com/JingyunLiang/SwinIR) is awarded the best paper prize in ICCV-AIM2021.
 - 2021-08-01: Three papers ([HCFlow](https://github.com/JingyunLiang/HCFlow), [MANet](https://github.com/JingyunLiang/MANet) and [BSRGAN](https://github.com/cszn/BSRGAN)) accepted by ICCV2021.
