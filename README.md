@@ -5,20 +5,15 @@
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=3-Hz9BgAAAAJ&view_op=list_works&sortby=pubdate) /
 [Github](https://github.com/JingyunLiang)
 
-I am currently a PhD Student at [Computer Vision Lab](https://vision.ee.ethz.ch/), [ETH Zürich](https://ethz.ch/en.html), Switzerland. I am co-supervised by Prof. [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en) and Prof. [Radu Timofte](http://people.ee.ethz.ch/~timofter/). I also work closely with Dr. [Kai Zhang](https://cszn.github.io/). I mainly focus on low-level vision research, especially on image and video restoration, such as
-- image/video super-resolution (SR)
-- image/video deblurring
-- image/video denoising
-- ...
+I am currently a Senior Research Scientist at Adobe Research, Seattle. Before this, I worked at Alibaba as an Algorithm Expert, after graduation from the [Computer Vision Lab](https://vision.ee.ethz.ch/), [ETH Zürich](https://ethz.ch/en.html). During my PhD, I was under the supervision of Prof. [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en) and Prof. [Radu Timofte](http://people.ee.ethz.ch/~timofter/). My research is focused on visual generation and low-level vision, such as image and video generation/ editing / restoration.
+
+<span style="color:red;">I am looking for Research Scientist Interns on image and video generation/ editing/ restoration for Adobe Research, as well as academic collbrators. Please send your CV to me if you are interested 😇</span>
 
 :rocket:  **News**
-- 2022-10-04: Our new paper [RVRT, NeurlPS2022](https://github.com/JingyunLiang/RVRT) achieves SOTA video restoration results with balanced size, memory and runtime.
-- 2022-08-30: See our papers on real-world image denoising ([SCUNet](https://github.com/cszn/SCUNet)) and video denoising ([ReViD](https://arxiv.org/pdf/2208.11803.pdf)).
-- 2022-07-30: Three papers, including [EFNet](https://github.com/AHupuJR/EFNet) (event-based image deblurring, oral), [DATSR](https://github.com/caojiezhang/DATSR) (reference image SR) and [DAVSR](https://github.com/caojiezhang/DAVSR) (video SR), accepted by ECCV2022.
-- 2022-01-28: Our new paper [VRT](https://github.com/JingyunLiang/VRT) outperforms previous Video SR/ deblurring/ denoising/ frame interpolation/ space-time video SR methods by up to :heart_eyes: **2.16dB**. :heart_eyes:
-- 2021-10-20: [SwinIR](https://github.com/JingyunLiang/SwinIR) is awarded the best paper prize in ICCV-AIM2021.
-- 2021-08-01: Three papers ([HCFlow](https://github.com/JingyunLiang/HCFlow), [MANet](https://github.com/JingyunLiang/MANet) and [BSRGAN](https://github.com/cszn/BSRGAN)) accepted by ICCV2021.
-- 2021-03-29: One paper ([FKP](https://github.com/JingyunLiang/FKP)) accepted by CVPR2021.
+- 2026-09: I joined Adobe Research as a Senior Research Scientist.
+- 2026-06: See our paper on exploring the 3D awareness of video diffusion models ([MeshToken](https://jingyunliang.github.io/)).
+- 2026-04: Our work on decomposed motion editing ([RealisMotion](https://jingyunliang.github.io/)) has been accepted by ICML2026.
+- 2026-02: Our work on autoregressive video generation ([Lumos-1](https://github.com/)) has been accepted by ICLR2026.
 
 
 🌱 **Repositories**
