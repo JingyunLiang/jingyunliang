@@ -8,8 +8,8 @@
 I am currently a Senior Research Scientist at Adobe Research, Seattle. Before this, I worked at Alibaba as an Algorithm Expert, after graduation from the [Computer Vision Lab](https://vision.ee.ethz.ch/), [ETH Zürich](https://ethz.ch/en.html). During my PhD, I was under the supervision of Prof. [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en) and Prof. [Radu Timofte](http://people.ee.ethz.ch/~timofter/). My research is focused on visual generation and low-level vision, such as image and video generation/ editing / restoration.
 
 
-> [!CAUTION]
-> I am looking for Research Scientist Interns on image and video generation/ editing/ restoration for Adobe Research, as well as academic collbrators. Please send your CV to me if you are interested 😇
+```text
+I am looking for Research Scientist Interns on image and video generation/ editing/ restoration for Adobe Research, as well as academic collbrators. Please send your CV to me if you are interested 😇
 
 
 :rocket:  **News**
